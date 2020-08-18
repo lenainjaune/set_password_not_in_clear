@@ -2,6 +2,7 @@
 Permet de changer un mot de passe sans qu'il ne s'affiche sur le terminal
 
 # Exemple changer mot de passe root sous MySQL
+# basé sur : http://www.ihp.sinica.edu.tw/dashboard/docs/reset-mysql-password.html
 
 <pre>
 # Donner un nouveau mot de passe robuste à root de manière sécurisée (avec confirmation)
